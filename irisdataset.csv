@@ -1,0 +1,16 @@
+﻿id,sepallength,sepalwidth,petallength,petal width,species
+1,4.5,6.4,8.1,6.9,iris_setosa
+2,4.6,6.8,8.2,6.4,iris_setosa
+3,4.7,6.9,8.3,6.8,iris_setosa
+4,4.8,8.1,4.5,6.9,iris_setosa
+5,4.9,6.3,4.6,7.9,iris_setosa
+6,6.1,4.5,4.7,4.5,iris_versicolor
+7,6.2,9.1,4.8,4.6,iris_versicolor
+8,6.3,5.6,6.4,4.7,iris_versicolor
+9,6.8,8.3,6.8,4.8,iris_versicolor
+10,6.9,5.7,6.9,5.8,iris_versicolor
+11,8.1,9.1,5.2,6.3,iris_virginica
+12,8.2,4.5,5.6,6.4,iris_virginica
+13,8.3,4.6,5.8,6.8,iris_virginica
+14,7.4,4.7,5.9,6.9,iris_virginica
+15,5.4,4.8,8.9,4.6,iris_virginica
